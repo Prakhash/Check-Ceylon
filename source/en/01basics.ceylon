@@ -59,6 +59,8 @@ void helloName() => print(greeting("Ceylon"));
 
 void helloWorld() => print(greeting());
 
+void helloIdiot() => print(greeting("Idiot"));
+
 /*
  
  A parameter may be variadic, meaning it 
